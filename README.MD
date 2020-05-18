@@ -6,9 +6,9 @@ TF2 rebalanced is a [SourceMod](https://www.sourcemod.net/) and a [Custom Weapon
 
 ## Changes (So Far):
 
-- Scout
+- #### Scout
 
-  - **The Shortstop**: ~~Removed the shove~~, but gave the weapon increased damage against buildings and increased healing while it's deployed. This improves it as a utility weapon, as well as helps the scout combat engineers better.
+  - **The Shortstop**: Removed the shove, but gave the weapon increased damage against buildings and increased healing while it's deployed. This improves it as a utility weapon, as well as helps the scout combat engineers better.
     - \+ 15% healing from all sources while active.
     - \+ 50% damage to buildings.
     - Holds a 4-shot clip and reloads its entire clip at once.

@@ -5,6 +5,8 @@
 !configs
 !configs/customweapons
 !configs/customweapons/*.cfg
+!scripting
+!scripting/tf2rb_*.sp
 !LICENSE
 !README.MD
 !.gitignore
