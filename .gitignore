@@ -1,0 +1,8 @@
+# Ignore everything except custom weapon files
+# Will also add exceptions for any scripts when that comes along
+
+*
+!configs
+!configs/customweapons
+!configs/customweapons/*.cfg
+!.gitignore
